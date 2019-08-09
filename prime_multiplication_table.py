@@ -52,7 +52,7 @@ def is_prime_number(num):
     return is_prime
 
 
-def get_prime_numbers(n):
+def get_prime_numbers(n=DEFAULT_PRIMES):
     """
     Creates a list of (n) prime numbers.
 
